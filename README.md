@@ -2,4 +2,5 @@
 - http://www.oppo.cn/app
 - http://www.coloros.com/clean.html
 - http://www.oppo.com/cn/shops
-- https://id.oppo.com/login?callback=http://www.oppo.cn/news&type=1
+- https://id.oppo.com/login
+- https://qingcloud.com/
