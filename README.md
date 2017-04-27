@@ -4,3 +4,4 @@
 - http://www.oppo.com/cn/shops
 - https://id.oppo.com/login
 - https://qingcloud.com/
+- http://www.yxt.com/
