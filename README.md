@@ -5,3 +5,4 @@
 - https://id.oppo.com/login
 - https://qingcloud.com/
 - http://www.yxt.com/
+- http://www.100.com/
