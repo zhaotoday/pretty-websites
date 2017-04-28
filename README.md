@@ -7,3 +7,4 @@
 - http://www.yxt.com/
 - http://www.100.com/
 - http://www.xingxiaoban.com/
+- http://www.jcloud.com/
