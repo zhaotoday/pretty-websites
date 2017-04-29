@@ -8,3 +8,4 @@
 - http://www.100.com/
 - http://www.xingxiaoban.com/
 - http://www.jcloud.com/
+- http://cn.cmcm.com/cm-security/?f=www
