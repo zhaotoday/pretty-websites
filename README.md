@@ -9,3 +9,4 @@
 - http://www.xingxiaoban.com/
 - http://www.jcloud.com/
 - http://cn.cmcm.com/cm-security/?f=www
+- https://www.heshidai.com/
