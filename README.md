@@ -10,3 +10,4 @@
 - http://www.jcloud.com/
 - http://cn.cmcm.com/cm-security/?f=www
 - https://www.heshidai.com/
+- http://zhongce.sina.com.cn/
