@@ -11,3 +11,4 @@
 - http://cn.cmcm.com/cm-security/?f=www
 - https://www.heshidai.com/
 - http://zhongce.sina.com.cn/
+- http://img.ui.cn/data/file/3/0/0/678003.png
