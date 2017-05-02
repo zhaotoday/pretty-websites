@@ -17,3 +17,4 @@
 - https://www.juhe.cn/
 - http://www.tuling123.com/
 - https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN
+- http://www.rongcloud.cn/
