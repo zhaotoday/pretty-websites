@@ -14,3 +14,4 @@
 - http://img.ui.cn/data/file/3/0/0/678003.png
 - http://www.101.com/
 - http://www.edusoho.com/
+- https://www.juhe.cn/
