@@ -16,3 +16,4 @@
 - http://www.edusoho.com/
 - https://www.juhe.cn/
 - http://www.tuling123.com/
+- https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN
