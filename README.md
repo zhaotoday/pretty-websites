@@ -20,3 +20,4 @@
 - http://www.rongcloud.cn/
 - https://bugly.qq.com/v2/products/crash-reporting
 - https://zhifu.youku.com/
+- http://lbs.amap.com/
