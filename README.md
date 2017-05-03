@@ -24,3 +24,4 @@
 - http://www.bmob.cn/
 - http://v.duba.com/?f=cmcn
 - https://www.duba.com/?f=cmcn
+- http://desk.duba.com/?f=60
