@@ -22,3 +22,4 @@
 - https://zhifu.youku.com/
 - http://lbs.amap.com/
 - http://www.bmob.cn/
+- http://v.duba.com/?f=cmcn
