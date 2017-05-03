@@ -28,3 +28,4 @@
 - http://cn.cmcm.com/news/products/
 - http://www.htgjrz.com/
 - https://www.tuya.com/
+- http://www.heshidai.com/
