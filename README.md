@@ -29,3 +29,4 @@
 - http://www.htgjrz.com/
 - https://www.tuya.com/
 - http://open.qq.com/
+- http://m.qq.com/download/
