@@ -23,3 +23,4 @@
 - http://lbs.amap.com/
 - http://www.bmob.cn/
 - http://v.duba.com/?f=cmcn
+- https://www.duba.com/?f=cmcn
