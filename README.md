@@ -31,3 +31,5 @@
 - http://open.qq.com/
 - http://m.qq.com/download/
 - https://www.tencent.com/zh-cn/index.html
+- http://store.niu.com/detail/141
+
