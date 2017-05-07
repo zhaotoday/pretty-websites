@@ -39,6 +39,6 @@
 - http://app.flyme.cn/apps/public/index
 - https://www.meizu.com/legal.html
 - http://blog.open.flyme.cn/
-
+- http://retail.meizu.com/index.html
 
 
