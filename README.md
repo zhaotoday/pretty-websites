@@ -36,3 +36,4 @@
 - http://wd.itools.cn/
 - https://www.meizu.com/
 - https://store.meizu.com/ 
+- http://app.flyme.cn/apps/public/index
