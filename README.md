@@ -34,3 +34,5 @@
 - http://store.niu.com/detail/141
 - http://wanle.me/
 - http://wd.itools.cn/
+- https://www.meizu.com/
+ 
