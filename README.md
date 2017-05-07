@@ -41,4 +41,4 @@
 - http://blog.open.flyme.cn/
 - http://retail.meizu.com/index.html
 - https://bbs.meizu.cn/
-
+- http://care.meizu.com/
