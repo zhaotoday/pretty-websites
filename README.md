@@ -53,3 +53,6 @@
 - http://www.mi.com/appdownload/ios/
 - http://pai.xiaomi.cn/
 - http://www.duokan.com/product
+- http://www.xiaomi.cn/
+
+
