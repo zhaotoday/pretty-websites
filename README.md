@@ -45,7 +45,7 @@
 - https://account.xiaomi.com/pass/serviceLogin
 - http://www.mi.com/appdownload/
 - http://www.mi.com/
-
+- http://static.mi.com/feedback/
 
 
 
