@@ -43,3 +43,13 @@
 - https://bbs.meizu.cn/
 - http://care.meizu.com/
 - https://account.xiaomi.com/pass/serviceLogin
+- http://www.mi.com/appdownload/
+
+
+
+
+
+
+
+
+
