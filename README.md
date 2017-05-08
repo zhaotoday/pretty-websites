@@ -55,4 +55,4 @@
 - http://www.duokan.com/product
 - http://www.xiaomi.cn/
 - http://www.duokan.com/r/%E6%A6%9C%E5%8D%95%E5%AE%B6%E6%97%8F
-
+- http://www.mi.com/c/xiaomizhijia/
