@@ -46,7 +46,7 @@
 - http://www.mi.com/appdownload/
 - http://www.mi.com/
 - http://static.mi.com/feedback/
-
+- http://www.mi.com/service/contact/
 
 
 
