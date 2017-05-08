@@ -48,7 +48,7 @@
 - http://static.mi.com/feedback/
 - http://www.mi.com/service/contact/
 - http://www.mi.com/service/
-
+- http://www.mi.com/service/account/register/
 
 
 
