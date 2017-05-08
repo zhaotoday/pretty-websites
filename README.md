@@ -49,7 +49,7 @@
 - http://www.mi.com/service/contact/
 - http://www.mi.com/service/
 - http://www.mi.com/service/account/register/
-
+- http://order.mi.com/service/serviceAgreement?id=3
 
 
 
