@@ -52,4 +52,4 @@
 - http://order.mi.com/service/serviceAgreement?id=3
 - http://www.mi.com/appdownload/ios/
 - http://pai.xiaomi.cn/
-
+- http://www.duokan.com/product
