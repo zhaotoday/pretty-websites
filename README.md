@@ -42,3 +42,4 @@
 - http://retail.meizu.com/index.html
 - https://bbs.meizu.cn/
 - http://care.meizu.com/
+- https://account.xiaomi.com/pass/serviceLogin
