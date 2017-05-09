@@ -60,3 +60,4 @@
 - http://fuwu.mi.com/
 - http://www.mi.com/c/service/download/
 - http://service.order.mi.com/apply/fill
+- http://www.miui.com/download.html
