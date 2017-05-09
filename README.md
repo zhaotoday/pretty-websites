@@ -59,3 +59,4 @@
 - http://www.mi.com/about/contact/
 - http://fuwu.mi.com/
 - http://www.mi.com/c/service/download/
+- http://service.order.mi.com/apply/fill
