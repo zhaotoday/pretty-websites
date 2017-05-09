@@ -65,3 +65,4 @@
 - http://zhushou.xiaomi.com/
 - http://static.xiaomi.cn/515
 - http://uvip.xiaomi.cn/
+- http://hr.xiaomi.com/
