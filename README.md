@@ -58,4 +58,4 @@
 - http://www.mi.com/c/xiaomizhijia/
 - http://www.mi.com/about/contact/
 - http://fuwu.mi.com/
-
+- http://www.mi.com/c/service/download/
