@@ -63,3 +63,4 @@
 - http://www.miui.com/download.html
 - http://zhuti.xiaomi.com/
 - http://zhushou.xiaomi.com/
+- http://static.xiaomi.cn/515
